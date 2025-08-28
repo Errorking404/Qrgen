@@ -10,7 +10,7 @@ apt install git bash -y
 git clone https://github.com/Errorking404/Qrgen.git
 cd Qrgen
 ls
-bash Qrgen.sh
+bash qrgen.sh
 ```
 
 # Author: 
